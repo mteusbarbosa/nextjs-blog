@@ -21,7 +21,6 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Me chamo Mateus Barbosa, sou de Natal-RN e tenho o anseio de me tornar Sênior em Front-end. Sou técnico em informática e tecnólogo em Sistemas para Internet, ambos pelo IFRN . Atualmente possuo habilidades em HTML, CSS, JavaScript, TypeScript e Framework Angular.</p>
-        <Link href="/posts/first-post">Posts</Link>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
